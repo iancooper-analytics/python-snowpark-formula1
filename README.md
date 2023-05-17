@@ -3,14 +3,6 @@
 ## Work in Progress (WIP) Notice 
 We will be iteratively updating this project for code cleanup, automation, and developing best practices. 
 So far the list of future improvements is as follows:
-- [ ]  setup folder for connecting to public s3 bucket 
-- [ ]  google drive link to our guide (will be subsequently replaced by dbt ecosystems page)
-- [ ]  yaml selectors for training and prediction; prediction only
-- [ ]  codegen for the 8 staging files
-- [ ]  label encorder clean up for numeric variables
-- [ ]  ohe for the categorical variables
-- [ ]  multi-class accuracy
-- [ ]  trying out https://github.com/omnata-labs/dbt-ml-preprocessing for some of preprocessing?
 - [ ]  snapshots
 - [ ]  model materialization overide
 - [ ]  project setup w/ jobs
