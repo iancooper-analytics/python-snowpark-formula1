@@ -11,6 +11,12 @@ So far the list of future improvements is as follows:
 - [ ]  ohe for the categorical variables
 - [ ]  multi-class accuracy
 - [ ]  trying out https://github.com/omnata-labs/dbt-ml-preprocessing for some of preprocessing?
+- [ ]  snapshots
+- [ ]  model materialization overide
+- [ ]  project setup w/ jobs
+- [ ]  dashboard w/ exposure
+- [ ]  clean up/create consistent formatting accross models
+- [ ]  source freshness
 
 
 ## Project Description
