@@ -8,7 +8,7 @@ WITH drivers AS (
         surname                 AS surname,
         date_of_birth           AS date_of_birth,
         driver_nationality      AS driver_nationality
-        --driver_url        AS driver_url
+        driver_url        AS driver_url
     FROM {{ ref('stg_drivers') }}
 )
 
